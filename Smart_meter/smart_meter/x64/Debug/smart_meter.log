@@ -1,0 +1,6 @@
+﻿  CppCLR_WinFormsProject.cpp
+  DataLogging.cpp
+  Form1.cpp
+  Generating Code...
+  Alarm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  smart_meter.vcxproj -> C:\Users\omare\source\repos\smart_meter\x64\Debug\smart_meter.exe

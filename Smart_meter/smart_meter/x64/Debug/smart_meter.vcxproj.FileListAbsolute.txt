@@ -1,0 +1,5 @@
+C:\Users\omare\source\repos\smart_meter\smart_meter\x64\Debug\smart_meter.vcxproj.AssemblyReference.cache
+C:\Users\omare\source\repos\smart_meter\smart_meter\x64\Debug\smart_meter.Form1.resources
+C:\Users\omare\source\repos\smart_meter\smart_meter\x64\Debug\smart_meter.Resource.resources
+C:\Users\omare\source\repos\smart_meter\smart_meter\x64\Debug\smart_meter.vcxproj.GenerateResource.cache
+C:\Users\omare\source\repos\smart_meter\x64\Debug\Resource.resx
